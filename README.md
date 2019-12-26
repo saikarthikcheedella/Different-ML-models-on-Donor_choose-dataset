@@ -1,7 +1,6 @@
 # Different-ML-models-on-Donor_choose-dataset
 
-
-I have implemented various Machine Learning algorithms on 'DonorChoose' dataset.
+This repo contains EDA.pynb on dataset, and implementation of various ML models on this "Donor choose".
 1. KNN
 2. Naive Bayes
 3. Logistic Regression
