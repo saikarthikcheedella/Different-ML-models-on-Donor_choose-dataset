@@ -1,6 +1,6 @@
 # Different-ML-models-on-Donor_choose-dataset
 
-This repo contains EDA.pynb on dataset, and implementation of various ML models on this "Donor choose".
+This repo contains .ipynb files, the implementation of various ML models on this "Donor choose" dataset.
 1. KNN
 2. Naive Bayes
 3. Logistic Regression
@@ -12,7 +12,7 @@ This repo contains EDA.pynb on dataset, and implementation of various ML models 
 
 In every model, few steps are common:
   1) Data pre-processing.
-  2) Vectorizing data using different word-embeddings (Tfidf, Word2Vec,..).
+  2) Vectorizing data using different word-embeddings (CBOW, Tfidf, Word2Vec like Avg-Word2Vec, Tfidf-Word2Vec).
   3) Hyper-parameter tuning.
   4) Running model with best params.
   5) Evaluate Performance metrics (ROC_AUC, F1_score, Accuracy,..).
